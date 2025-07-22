@@ -90,8 +90,5 @@ Tested on:
 
 ---
 
-
----
-
 ## License
 MIT
