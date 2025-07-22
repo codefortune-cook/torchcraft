@@ -70,8 +70,8 @@ Write a custom CUDA kernel for a normalization operator (e.g., GroupNorm) and in
 ## 🚀 Quickstart
 ```bash
 # Clone and install requirements
-$ git clone https://github.com/<your-username>/pytorch-expert-demo
-$ cd pytorch-expert-demo
+$ git clone https://github.com/codefortune-cook/torchcraft
+$ cd torchcraft
 $ pip install -r requirements.txt
 
 # Run a module, e.g.,
@@ -90,8 +90,6 @@ Tested on:
 
 ---
 
-## 🙌 Credits
-Maintained by [Waris Ali](https://github.com/waris-ali-dev). Contributions and forks welcome!
 
 ---
 
